@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9473e33-70e6-49a8-a62e-690d5dbecc54" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Cli/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSON/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSON/2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module/2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module/db.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/This/10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/This/8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/This/9.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,54 +36,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Node.js.1.js (1).executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.1.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.2.js (1).executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.2.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.main.js.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.1.js (1).executor": "Run",
+    "Node.js.1.js (2).executor": "Run",
+    "Node.js.1.js.executor": "Run",
+    "Node.js.2.js (1).executor": "Run",
+    "Node.js.2.js (2).executor": "Run",
+    "Node.js.2.js.executor": "Run",
+    "Node.js.3.js.executor": "Run",
+    "Node.js.4.js.executor": "Run",
+    "Node.js.5.js.executor": "Run",
+    "Node.js.6.js.executor": "Run",
+    "Node.js.7.js.executor": "Run",
+    "Node.js.8.js.executor": "Run",
+    "Node.js.9.js.executor": "Run",
+    "Node.js.main.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Module" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.2.js (1)">
-    <configuration name="1.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JSON/1.js" working-dir="$PROJECT_DIR$/JSON">
+  <component name="RunManager" selected="Node.js.10.js">
+    <configuration name="10.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/This/10.js" working-dir="$PROJECT_DIR$/This">
       <method v="2" />
     </configuration>
-    <configuration name="1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Cli/1.js" working-dir="$PROJECT_DIR$/Cli">
+    <configuration name="6.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/This/6.js" working-dir="$PROJECT_DIR$/This">
       <method v="2" />
     </configuration>
-    <configuration name="2.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JSON/2.js" working-dir="$PROJECT_DIR$/JSON">
+    <configuration name="7.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/This/7.js" working-dir="$PROJECT_DIR$/This">
       <method v="2" />
     </configuration>
-    <configuration name="2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Module/2.js" working-dir="$PROJECT_DIR$">
+    <configuration name="8.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/This/8.js" working-dir="$PROJECT_DIR$/This">
       <method v="2" />
     </configuration>
-    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Module/main.js" working-dir="$PROJECT_DIR$">
+    <configuration name="9.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/This/9.js" working-dir="$PROJECT_DIR$/This">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.2.js (1)" />
-        <item itemvalue="Node.js.1.js (1)" />
-        <item itemvalue="Node.js.1.js" />
-        <item itemvalue="Node.js.2.js" />
-        <item itemvalue="Node.js.main.js" />
+        <item itemvalue="Node.js.10.js" />
+        <item itemvalue="Node.js.9.js" />
+        <item itemvalue="Node.js.8.js" />
+        <item itemvalue="Node.js.7.js" />
+        <item itemvalue="Node.js.6.js" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +110,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747339215221</updated>
-      <workItem from="1747339216346" duration="3180000" />
+      <workItem from="1747339216346" duration="4139000" />
+      <workItem from="1747511417202" duration="284000" />
+      <workItem from="1747776097429" duration="2372000" />
+      <workItem from="1747864082604" duration="968000" />
+      <workItem from="1747876259801" duration="344000" />
+      <workItem from="1747911539704" duration="12073000" />
+      <workItem from="1748030696679" duration="715000" />
     </task>
     <servers />
   </component>
